@@ -6,9 +6,9 @@ import VueI18n from 'vue-i18n';
 import ElementUI from 'element-ui';
 import enLocale from 'element-ui/lib/locale/lang/en';
 import zhLocale from 'element-ui/lib/locale/lang/zh-CN';
-import 'element-ui/lib/theme-chalk/index.css';
 import zhLocal from '@/assets/lang/zh.js';
 import enLocal from '@/assets/lang/en.js';
+import 'element-ui/lib/theme-chalk/index.css';
 
 Vue.config.productionTip = false;
 
