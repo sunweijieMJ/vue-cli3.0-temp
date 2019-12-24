@@ -8,8 +8,11 @@ node_modules
 
 # Log files
 npm-debug.log*
+yarn.lock*
 yarn-debug.log*
 yarn-error.log*
+package-lock.json*
+jsconfig.json*
 
 # Editor directories and files
 .idea
